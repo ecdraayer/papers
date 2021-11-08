@@ -10,6 +10,7 @@ This repository maintains a list of papers that our lab looks into.
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">2.1 Change Point Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Autoregressive">2.2 Autoregressive</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#PMU">2.3 PMU</a></td></tr>
+<tr><td colspan="2">1. Erick's Research <a href="https://github.com/ecdraayer/Paper_List">here</a> </td></tr>
 <tr><td colspan="2"><a href="#Physics-guided-NN-models">3. Physics guided NN models</a></td></tr>
 </table>
 
